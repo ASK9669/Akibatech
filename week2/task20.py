@@ -14,6 +14,8 @@ Smallest = min(a)
 largest = max(a)
 total = sum(a)
 average = total / len(a)
+
+
 print("Smallest:", Smallest)
 print("Largest:", largest)
 print("Total:", total)
